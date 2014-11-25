@@ -1,0 +1,7 @@
+<library path="lib/libmove_slow_recovery">
+  <class name="recovery/MoveSlowRecovery" type="recovery::MoveSlowRecovery" base_class_type="nav_core::RecoveryBehavior">
+    <description>
+      Slowly moves the robot.
+    </description>
+  </class>
+</library>
